@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  trainee_id: 1
+  subject_id: 1
+  status: MyString
+  timecomplete: 2014-07-14 09:52:11
+
+two:
+  trainee_id: 1
+  subject_id: 1
+  status: MyString
+  timecomplete: 2014-07-14 09:52:11
